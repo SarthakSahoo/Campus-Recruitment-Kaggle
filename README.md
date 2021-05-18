@@ -29,6 +29,9 @@ Before using the data for analysis; there has been many categorical values which
 Check more details about the dataset in 
 * https://www.kaggle.com/benroshan/factors-affecting-campus-placement
 
+Also, this whole work can be checked in Kaggle by below link:
+* https://www.kaggle.com/cs155925/campus-recruitement-exploration
+
 ## References:
 * https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
 * https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html
